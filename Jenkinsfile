@@ -21,10 +21,5 @@ pipeline {
         sh 'make'
       }
     }
-    stage('run') {
-      steps {
-        sh 'src/dalongdemoapp'
-      }
-    }
   }
 }
