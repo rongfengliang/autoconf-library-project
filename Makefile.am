@@ -1,0 +1,2 @@
+lib_LTLIBRARIES=libuserservice.la
+libuserservice_la_SOURCES=userservice.c userservice.h
