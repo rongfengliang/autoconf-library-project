@@ -25,3 +25,4 @@ missing
 stamp-h1
 userservice.lo
 userservice.o
+install-sh
