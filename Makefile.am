@@ -1,2 +1,2 @@
-lib_LTLIBRARIES=libuserservice.a
-libuserservice_a_SOURCES=userservice.c userservice.h
+lib_LTLIBRARIES=libuserservice.la
+libuserservice_la_SOURCES=userservice.c userservice.h
