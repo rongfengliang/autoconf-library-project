@@ -3,7 +3,6 @@
 .vscode
 autom4te.cache
 aclocal.m4
-autogen.sh
 autoscan.log
 compile
 config.guess
