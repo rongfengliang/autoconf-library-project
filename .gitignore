@@ -16,6 +16,7 @@ configure.scan
 depcomp
 libtool
 libuserservice.la
+libuserservice.a
 ltmain.sh
 compile
 Makefile
